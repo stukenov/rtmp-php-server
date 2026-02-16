@@ -1,0 +1,31 @@
+# Composer
+/vendor/
+composer.phar
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Media files
+*.mp4
+*.flv
+*.ts
+*.m3u8
+*.avi
+*.mkv
+*.mov
+
+# Environment
+.env
+.env.local
